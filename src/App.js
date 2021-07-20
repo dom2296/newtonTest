@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Newton from './newton'
 
 function App() {
   return (
@@ -11,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.newtonschool.co/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <Newton />
         </a>
       </header>
     </div>
